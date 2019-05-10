@@ -4,6 +4,7 @@
 1. The function of "optimizationMRCPSP" in the Library.m requires the toolbox of "yalmip".
 	Install "yalmip" at https://yalmip.github.io/
 	YALMIP is free of charge. 
+	Set up the path to yalmip in MATLAB.
 	
 2. The optimization solver in the current form of the function of "optimizationMRCPSP" is "Gurobi", but you may choose other solvers if there are avaiable on your computer. 
 	Install "Gurobi" at http://www.gurobi.com/
